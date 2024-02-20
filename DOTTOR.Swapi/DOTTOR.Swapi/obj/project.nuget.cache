@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UgahdbHcfk8ly0I8nG70h/KTNxttkb5XLx7JaWzU22yyHGeOgfFxb70iJla5dA7Wk2T3z99w803Tfm3/qBC/bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mattia Vaccarello\\RiderProjects\\DOTTOR.Swapi\\DOTTOR.Swapi\\DOTTOR.Swapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mattia Vaccarello\\.nuget\\packages\\spectre.console\\0.48.1-preview.0.28\\spectre.console.0.48.1-preview.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\bin\Debug\net8.0\DOTTOR.Swapi.exe
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\bin\Debug\net8.0\DOTTOR.Swapi.deps.json
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\bin\Debug\net8.0\DOTTOR.Swapi.runtimeconfig.json
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\bin\Debug\net8.0\DOTTOR.Swapi.dll
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\bin\Debug\net8.0\DOTTOR.Swapi.pdb
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\obj\Debug\net8.0\DOTTOR.Swapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\obj\Debug\net8.0\DOTTOR.Swapi.AssemblyInfoInputs.cache
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\obj\Debug\net8.0\DOTTOR.Swapi.AssemblyInfo.cs
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\obj\Debug\net8.0\DOTTOR.Swapi.csproj.CoreCompileInputs.cache
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\obj\Debug\net8.0\DOTTOR.Swapi.dll
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\obj\Debug\net8.0\refint\DOTTOR.Swapi.dll
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\obj\Debug\net8.0\DOTTOR.Swapi.pdb
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\obj\Debug\net8.0\DOTTOR.Swapi.genruntimeconfig.cache
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\obj\Debug\net8.0\ref\DOTTOR.Swapi.dll
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\obj\Debug\net8.0\DOTTOR.Swapi.csproj.AssemblyReference.cache
+C:\Users\Mattia Vaccarello\RiderProjects\DOTTOR.Swapi\DOTTOR.Swapi\obj\Debug\net8.0\DOTTOR.Swapi.csproj.CopyComplete

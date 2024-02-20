@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DOTTOR.Swapi/1.0.0": {
+        "dependencies": {
+          "Spectre.Console": "0.48.1-preview.0.28"
+        },
+        "runtime": {
+          "DOTTOR.Swapi.dll": {}
+        }
+      },
+      "Spectre.Console/0.48.1-preview.0.28": {
+        "runtime": {
+          "lib/net8.0/Spectre.Console.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.48.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DOTTOR.Swapi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spectre.Console/0.48.1-preview.0.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o6Sn/hx8XaptTpCTIQ7uUw//jeU4fZWVnBHsYo7eT4Ek1MDAoB50WDPwoY2n8AMnRvENCIkwsKy1nd6actqVsg==",
+      "path": "spectre.console/0.48.1-preview.0.28",
+      "hashPath": "spectre.console.0.48.1-preview.0.28.nupkg.sha512"
+    }
+  }
+}
